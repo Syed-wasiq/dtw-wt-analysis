@@ -1,3 +1,7 @@
+# Contributors
+- Syed Wasiq Saifi
+- Ali Akbar Hasnain
+
 # DTW-based Contact Pattern Analysis (WT)
 
 This repository contains a Jupyter notebook for computing Dynamic Time Warping (DTW) distances between per-residue contact time series from a wild-type (WT) protein system, followed by clustering and validation of the resulting patterns.
